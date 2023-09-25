@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "mico",
+        "age": 18,
+        "cars": [
+            {
+                "name": "BMW",
+                "price": 100000
+            },
+            {
+                "name": "Benz",
+                "price": 200000
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "snars",
+        "age": 20,
+        "cars": [
+            {
+                "name": "Honda",
+                "price": 100000
+            },
+            {
+                "name": "Yamaha",
+                "price": 200000
+            }
+        ]
+    }
+]
